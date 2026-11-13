@@ -44,9 +44,9 @@
 
 ## Idiomas
 
-- 🇧🇷 Português (nativo)
-- 🇺🇸 Inglês (intermediário/avançado)
-- 🇪🇸 Espanhol (intermediário)
+- Português (nativo)
+- Inglês (intermediário/avançado)
+- Espanhol (intermediário)
 
 ## Vamos conversar
 
